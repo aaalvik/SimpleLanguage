@@ -3,7 +3,7 @@
 This is a school project where the goal was to visualize an abstract syntax tree and step-by-step evaluation of my own small language using Elm. I implemented a simple imperative language with and a small-step evaluator for visualizing every evaluation step. 
 
 ## Examples
-![example-if](https://github.com/aaalvik/simplelanguage/src/static/screenshots/example-if.png)
+![example-if](https://raw.githubusercontent.com/username/simplelanguage/master/src/static/screenshots/example-if.png)
 
 ### Installation and Usage
 
